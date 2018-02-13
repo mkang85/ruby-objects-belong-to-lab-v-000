@@ -6,4 +6,6 @@ def initialize
   @title
 end
 
+artist = Artist.new
+
 end
